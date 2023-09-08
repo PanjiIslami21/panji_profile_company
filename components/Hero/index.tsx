@@ -18,7 +18,7 @@ const Hero = () => {
                 Kenali potensi dan bakat anak dengan Fingerprint Analysis!
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
-                Sebuah teknologi pemindaian sidik jari untuk mengetahui potensi genetik seseorang terkait dengan sistem respon kerja otak.
+                Mengetahui potensi genetik seseorang terkait dengan sistem respon kerja otak.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
